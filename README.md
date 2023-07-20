@@ -1,3 +1,10 @@
+## リンク集
+ここ最近は、InstagramとTwitterに居ることが多いです。
+- [Instagram](https://www.instagram.com/tqr_log/)
+- [Twitter](https://twitter.com/TQR_LOG)
+- [note](https://note.com/tqr_log)
+- [YouTube](https://www.youtube.com/@TQR_LOG)
+
 <!--
 ## Welcome to GitHub Pages
 
